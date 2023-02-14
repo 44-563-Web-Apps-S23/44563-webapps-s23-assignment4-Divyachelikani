@@ -18,17 +18,17 @@ background-color: pink;
  background-color: darkseagreen;
 }
 
-.abc
+.IMP
 
 {
     color: blue;
 }
-.def {
+.JUDGE {
     color:crimson;
 }
 
-.xyz{
-    color:green;
+.POOR {
+    color: greenyellow;
 }
 table, th, td {
     border:1px solid;
