@@ -14,6 +14,42 @@ background-color: pink;
 
 }
 
-direction.hover {
+.direction:hover {
  background-color: darkseagreen;
 }
+
+.abc
+
+{
+    color: blue;
+}
+.def {
+    color:crimson;
+}
+
+.xyz{
+    color:green;
+}
+table, th, td {
+    border:1px solid;
+    border-collapse: collapse;
+    text-align: center;
+
+    color: blue; font-weight: bold;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 14px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 12px;
+    margin-right: 14px;
+}
+
+    tr:nth-child(even) {
+
+    
+    background-color : lightgoldenrodyellow ;
+
+}
+
