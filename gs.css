@@ -1,6 +1,11 @@
 .speech{
-     color:pink;
+     color:black;
     size: 15px;
      font-family: Arial,Helvetica, Sans-serif;
+}
 
+.direction{
+    color: black;
+    size: 19px;
+    font-family: 'Times New Roman', Times, serif
 }
