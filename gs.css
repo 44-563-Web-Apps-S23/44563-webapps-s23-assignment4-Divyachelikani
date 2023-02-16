@@ -56,29 +56,33 @@ table, th, td {
 }
 
 .IMP:hover{
-     text-shadow: 3px 3px red;}
+     text-shadow: 2px 2px red;}
      .POOR:hover{
-        text-shadow: 3px 3px blue;}
+        text-shadow: 2px 2px blue;}
     .JUDGE:hover {
-        text-shadow: 3px 3px blueviolet;
+        text-shadow: 2px 2px blueviolet;
+
     }
 
 
 ul.navbar-horizontal {
-    
-    /* remove these */
-     list-style-type: none;
-      margin: 0; padding: 0;
-    }
-    ul.navbar-horizontal li { float:left;
-        /* line up horizontally */
-        color:#000; background-color:rgb(43, 198, 226); }
-         ul.navbar-horizontal a { display:block; padding:8px } 
-         /* on hover change the link color*/
-          ul.navbar-horizontal a:hover { 
-            background-color: #555;
-             color:white;
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+    display: flex;
+}
+            
+.material-symbols-outlined {
+               font-variation-settings:
+               'FILL' 0,
+               'wght' 400,
+               'GRAD' 0,
+               'opsz' 48
              }
+            
+
 
 
 
